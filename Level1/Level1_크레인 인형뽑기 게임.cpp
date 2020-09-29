@@ -1,8 +1,11 @@
-#include <string>
+﻿#include <string>
 #include <vector>
 #include <stack>
 
 using namespace std;
+
+namespace Level1_크레인_인형뽑기_게임
+{
 
 int solution(vector<vector<int>> board, vector<int> moves) {
 	int answer = 0;
@@ -49,4 +52,6 @@ int solution(vector<vector<int>> board, vector<int> moves) {
 	}
 
 	return answer;
+}
+
 }
