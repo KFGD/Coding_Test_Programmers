@@ -13,5 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Level1">
+      <UniqueIdentifier>{ab41ebb3-f917-4677-a6ec-c77ef3d70486}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Level1\Level1_크레인 인형뽑기 게임.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_두 개 뽑아서 더하기.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_완주하지_못한_선수.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_모의고사.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_체육복.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

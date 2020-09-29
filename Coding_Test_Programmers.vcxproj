@@ -146,6 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Level1\Level1_두 개 뽑아서 더하기.cpp" />
+    <ClCompile Include="Level1\Level1_모의고사.cpp" />
+    <ClCompile Include="Level1\Level1_완주하지_못한_선수.cpp" />
+    <ClCompile Include="Level1\Level1_체육복.cpp" />
+    <ClCompile Include="Level1\Level1_크레인 인형뽑기 게임.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
