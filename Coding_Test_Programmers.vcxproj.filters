@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Level1">
       <UniqueIdentifier>{ab41ebb3-f917-4677-a6ec-c77ef3d70486}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Level2">
+      <UniqueIdentifier>{64e1cb6c-3e43-40f4-b606-7bfb9199873a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Level1\Level1_크레인 인형뽑기 게임.cpp">
@@ -32,6 +35,24 @@
     </ClCompile>
     <ClCompile Include="Level1\Level1_체육복.cpp">
       <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_2016년.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_가운데_글자_가져오기.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_나누어_떨어지는_숫자_배열.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_두_정수_사이의_합.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1\Level1_문자열_내_마음대로_정렬하기.cpp">
+      <Filter>소스 파일\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level2\Level2_멀쩡한_사각형.cpp">
+      <Filter>소스 파일\Level2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
