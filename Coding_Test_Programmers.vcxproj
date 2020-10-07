@@ -156,7 +156,7 @@
     <ClCompile Include="Level1\Level1_완주하지_못한_선수.cpp" />
     <ClCompile Include="Level1\Level1_체육복.cpp" />
     <ClCompile Include="Level1\Level1_크레인 인형뽑기 게임.cpp" />
-    <ClCompile Include="Level2\Level2_멀쩡한_사각형.cpp" />
+    <ClCompile Include="Level2\Level2_스킬트리.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

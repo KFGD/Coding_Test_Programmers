@@ -51,7 +51,7 @@
     <ClCompile Include="Level1\Level1_문자열_내_마음대로_정렬하기.cpp">
       <Filter>소스 파일\Level1</Filter>
     </ClCompile>
-    <ClCompile Include="Level2\Level2_멀쩡한_사각형.cpp">
+    <ClCompile Include="Level2\Level2_스킬트리.cpp">
       <Filter>소스 파일\Level2</Filter>
     </ClCompile>
   </ItemGroup>

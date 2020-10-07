@@ -11,6 +11,7 @@ int solution(string skill, vector<string> skill_trees) {
 	for (auto skill_tree : skill_trees)
 	{
 		bool bSucceed = true;
+		curIdx = 0;
 		for (int i = 0; i < skill_tree.size(); ++i)
 		{
 			const size_t n = skill.find(skill_tree[i], curIdx);
