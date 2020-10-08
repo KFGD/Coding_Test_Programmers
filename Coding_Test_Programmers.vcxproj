@@ -156,7 +156,22 @@
     <ClCompile Include="Level1\Level1_완주하지_못한_선수.cpp" />
     <ClCompile Include="Level1\Level1_체육복.cpp" />
     <ClCompile Include="Level1\Level1_크레인 인형뽑기 게임.cpp" />
+    <ClCompile Include="Level2\Level2_124나라의_숫자.cpp" />
+    <ClCompile Include="Level2\Level2_H-Index.cpp" />
+    <ClCompile Include="Level2\Level2_가장_큰_수.cpp" />
+    <ClCompile Include="Level2\Level2_기능개발.cpp" />
+    <ClCompile Include="Level2\Level2_다리를_지나는_트럭.cpp" />
+    <ClCompile Include="Level2\Level2_더_맵게.cpp" />
+    <ClCompile Include="Level2\Level2_멀쩡한_사각형.cpp" />
+    <ClCompile Include="Level2\Level2_문자열_압축.cpp" />
+    <ClCompile Include="Level2\Level2_소수_찾기.cpp" />
     <ClCompile Include="Level2\Level2_스킬트리.cpp" />
+    <ClCompile Include="Level2\Level2_위장.cpp" />
+    <ClCompile Include="Level2\Level2_전화번호_목록.cpp" />
+    <ClCompile Include="Level2\Level2_주식가격.cpp" />
+    <ClCompile Include="Level2\Level2_카카오프렌즈_컬러링북.cpp" />
+    <ClCompile Include="Level2\Level2_큰_수_만들기.cpp" />
+    <ClCompile Include="Level2\Level2_프린터.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
