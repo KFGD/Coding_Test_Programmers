@@ -172,6 +172,10 @@
     <ClCompile Include="Level2\Level2_카카오프렌즈_컬러링북.cpp" />
     <ClCompile Include="Level2\Level2_큰_수_만들기.cpp" />
     <ClCompile Include="Level2\Level2_프린터.cpp" />
+    <ClCompile Include="Level3\Level3_네트워크.cpp" />
+    <ClCompile Include="Level3\Level3_단어_변환.cpp" />
+    <ClCompile Include="Level3\Level3_디스크_컨트롤러.cpp" />
+    <ClCompile Include="Level3\Level3_섬_연결하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

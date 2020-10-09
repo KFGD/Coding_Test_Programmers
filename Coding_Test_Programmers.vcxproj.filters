@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Level2">
       <UniqueIdentifier>{64e1cb6c-3e43-40f4-b606-7bfb9199873a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Level3">
+      <UniqueIdentifier>{fe5494f0-fc3b-415b-9606-3a39cbf64a32}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Level1\Level1_크레인 인형뽑기 게임.cpp">
@@ -98,6 +101,18 @@
     </ClCompile>
     <ClCompile Include="Level2\Level2_위장.cpp">
       <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3\Level3_네트워크.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3\Level3_디스크_컨트롤러.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3\Level3_단어_변환.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3\Level3_섬_연결하기.cpp">
+      <Filter>소스 파일\Level3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
